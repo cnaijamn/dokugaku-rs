@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=0eSBBSp-KGk
-
 //use std::{collections::LinkedList, io::Write};
 use std::collections::LinkedList;
 use std::io::Write;

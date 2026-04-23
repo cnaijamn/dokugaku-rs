@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=56bAlKwSHWc
-
 use std::io::{ stdin, stdout, Write };
 
 struct StateMachine {

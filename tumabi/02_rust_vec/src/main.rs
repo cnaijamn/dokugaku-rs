@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=qsoxP_4PBqQ
-
 fn main() {
     {
         let v: Vec<i32> = Vec::new();

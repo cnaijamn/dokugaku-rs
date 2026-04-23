@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=xv3LJgN3hY0&list=PL1tg_vSL2RVM5QRWLv4MkdOvUv1fDy0Zh&index=10
-
 /*
 # serdeをderive featureを有効にして導入
 % cargo add serde --features derive

@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=sTVNP5q-fMQ
-
 fn bubble_sort(v: &mut Vec<i32>, compar: fn(i32, i32) -> bool) {
     let mut flag = true;
     let mut k = 0;

@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=sBnDMsHPVf8
-
 struct Point {
     x: i32,
     y: i32,

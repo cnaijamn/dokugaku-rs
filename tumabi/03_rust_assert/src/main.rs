@@ -1,4 +1,3 @@
-// https://www.youtube.com/watch?v=ZYo9RXZtwrI
 /*
     - assert!(bool)
     - assert_eq!(T, T)

@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=_DNIOuhY3wc
-
 fn show_kuku(beg: u32, end: u32) {
     for i in beg..end {
         for j in beg..end {

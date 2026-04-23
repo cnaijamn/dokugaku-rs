@@ -1,6 +1,3 @@
-// https://www.youtube.com/watch?v=u8n-KVjsAww
-// Rustでcheagrepコマンドを作る
-
 // 例:
 // % cargo run src/main.rs String
 // 5: // % cargo run src/main.rs String

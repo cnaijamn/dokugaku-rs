@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=vNiFlY9bukU
-
 use std::io::{ stdin, stdout, Write };
 use std::str::{ FromStr };
 

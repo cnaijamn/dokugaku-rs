@@ -1,4 +1,3 @@
-// https://www.youtube.com/watch?v=_-o1NQx_DCE
 // キャスト(型変換)
 
 fn main() {
