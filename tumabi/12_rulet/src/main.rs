@@ -37,7 +37,7 @@ impl Game {
         std::thread::sleep(mils);
     }
 
-    pub fn input(&mut self) {
+    fn input(&mut self) {
         let mut line = String::new();
         print!("input > ");
         std::io::stdout().flush().unwrap();
