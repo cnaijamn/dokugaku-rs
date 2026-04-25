@@ -25,3 +25,23 @@ path = "src/nlp60_004.rs"
 [[bin]]
 name = "nlp60_005"
 path = "src/nlp60_005.rs"
+
+[[bin]]
+name = "nlp60_006"
+path = "src/nlp60_006.rs"
+
+[[bin]]
+name = "nlp60_007"
+path = "src/nlp60_007.rs"
+
+[[bin]]
+name = "nlp60_008"
+path = "src/nlp60_008.rs"
+
+[[bin]]
+name = "nlp60_009"
+path = "src/nlp60_009.rs"
+
+[[bin]]
+name = "nlp60_010"
+path = "src/nlp60_010.rs"
