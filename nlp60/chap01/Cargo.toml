@@ -1,0 +1,27 @@
+[package]
+name = "chap01"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.8"
+
+[[bin]]
+name = "nlp60_001"
+path = "src/nlp60_001.rs"
+
+[[bin]]
+name = "nlp60_002"
+path = "src/nlp60_002.rs"
+
+[[bin]]
+name = "nlp60_003"
+path = "src/nlp60_003.rs"
+
+[[bin]]
+name = "nlp60_004"
+path = "src/nlp60_004.rs"
+
+[[bin]]
+name = "nlp60_005"
+path = "src/nlp60_005.rs"
