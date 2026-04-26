@@ -33,6 +33,8 @@ Chapters
   - **010: 簡易メモ帳（ファイル書き込み）**  
     お題: ユーザーが入力した文字列を`memo.txt`というファイルに保存する。
 - [Lv.2 データ構造とファイル操作（011〜020）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/6c16dd)
+  - **011: 数当てゲーム (High & Low)**  
+    お題: 1〜100の数字をランダムに決め、ユーザーが当てるまでループする。「もっと大きい」「もっと小さい」とヒントを出す。
 - [Lv.3 アルゴリズムと所有権の深掘り（021〜030）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/07a3d2)
 - [Lv.4 実用CLIツールと外部クレート（031〜040）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/299ad2)
 - [Lv.5 データベースとリリース工学](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/339acb)
