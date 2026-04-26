@@ -7,7 +7,7 @@ fn main() {
     let mut memo = String::new();
     io::stdin().read_line(&mut memo).expect("入力エラー");
 
-    let filename = "memo.txt";
+    let filename = "/tmp/memo.txt";
     fs::write(filename, memo).expect("書き込みエラー");
 
     println!("'{}' に保存しました！", filename);
