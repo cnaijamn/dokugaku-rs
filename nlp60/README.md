@@ -9,6 +9,12 @@ Zenn
 % cargo run --bin nlp60_001
 ```
 
+一括クリーン
+------------
+```sh
+% find . -name Cargo.toml -execdir cargo clean \;
+```
+
 Chapters
 --------
 - [Lv.1 基本構文と制御フロー（001〜010）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/3e309b)
@@ -39,6 +45,8 @@ Chapters
     お題: 2つの数字と演算子（`+`, `-`, `*`, `/`）を受け取り、計算結果を表示する。
   - **013: じゃんけんゲーム**  
     お題: グー・チョキ・パーをランダムに出し、勝敗を判定する。
+  - **014: CSVデータ解析**  
+    お題: カンマ区切りの文字列データを分解し、整形して表示する。
 - [Lv.3 アルゴリズムと所有権の深掘り（021〜030）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/07a3d2)
 - [Lv.4 実用CLIツールと外部クレート（031〜040）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/299ad2)
 - [Lv.5 データベースとリリース工学](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/339acb)

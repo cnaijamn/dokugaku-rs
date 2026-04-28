@@ -33,3 +33,8 @@
 27. []()
 28. []()
 
+一括クリーン
+------------
+```sh
+% find . -name Cargo.toml -execdir cargo clean \;
+```
