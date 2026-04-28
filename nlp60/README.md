@@ -35,6 +35,10 @@ Chapters
 - [Lv.2 データ構造とファイル操作（011〜020）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/6c16dd)
   - **011: 数当てゲーム (High & Low)**  
     お題: 1〜100の数字をランダムに決め、ユーザーが当てるまでループする。「もっと大きい」「もっと小さい」とヒントを出す。
+  - **012: 簡易電卓**  
+    お題: 2つの数字と演算子（`+`, `-`, `*`, `/`）を受け取り、計算結果を表示する。
+  - **013: じゃんけんゲーム**  
+    お題: グー・チョキ・パーをランダムに出し、勝敗を判定する。
 - [Lv.3 アルゴリズムと所有権の深掘り（021〜030）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/07a3d2)
 - [Lv.4 実用CLIツールと外部クレート（031〜040）](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/299ad2)
 - [Lv.5 データベースとリリース工学](https://zenn.dev/satoshindrome/books/eaae0ff83e2c00/viewer/339acb)

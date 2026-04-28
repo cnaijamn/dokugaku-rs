@@ -10,3 +10,11 @@ rand = "0.10"
 [[bin]]
 name = "nlp60_011"
 path = "src/nlp60_011.rs"
+
+[[bin]]
+name = "nlp60_012"
+path = "src/nlp60_012.rs"
+
+[[bin]]
+name = "nlp60_013"
+path = "src/nlp60_013.rs"
