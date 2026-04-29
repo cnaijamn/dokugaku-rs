@@ -6,6 +6,8 @@ edition = "2024"
 [dependencies]
 #rand = "0.8"
 rand = "0.10"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
 
 [[bin]]
 name = "nlp60_011"
@@ -22,3 +24,27 @@ path = "src/nlp60_013.rs"
 [[bin]]
 name = "nlp60_014"
 path = "src/nlp60_014.rs"
+
+[[bin]]
+name = "nlp60_015"
+path = "src/nlp60_015.rs"
+
+[[bin]]
+name = "nlp60_016"
+path = "src/nlp60_016.rs"
+
+[[bin]]
+name = "nlp60_017"
+path = "src/nlp60_017.rs"
+
+[[bin]]
+name = "nlp60_018"
+path = "src/nlp60_018.rs"
+
+[[bin]]
+name = "nlp60_019"
+path = "src/nlp60_019.rs"
+
+[[bin]]
+name = "nlp60_020"
+path = "src/nlp60_020.rs"
