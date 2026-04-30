@@ -1,5 +1,5 @@
 use rand::Rng;
-use std::io::{Write};
+use std::io::{Write}; // flush()
 
 const NMATERS: i32 = 3;
 
